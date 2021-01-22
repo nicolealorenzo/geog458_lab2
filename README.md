@@ -3,6 +3,6 @@ The map below visualizes Tweets made in the Philippines, Malaysia and Indonesia.
 
 <img src="img/mapimage.png" alt="Map Image">
 
-As you can see from the map above, majoity of the Tweets coming from the Philippines are cultered in the countries capiols: Manila and Cebu. The rest of the country doesn't seem to be producing much activity. Unlike the observed surrounding countries (Indonesia and Malaysia) have more scattered data of Tweets being made.
+As you can see from the map above, majoity of the Tweets coming from the Philippines are cluttered in the countries capitols: Manila and Cebu. The rest of the country doesn't seem to be producing much activity. Unlike the observed surrounding countries (Indonesia and Malaysia) have more scattered data of Tweets being made.
 
-Social dictatorship in the Philippines is something that has been going on for a long time. It's upsetting to see citizen being influenced by news filtered by thier own government. People themselves have to be cautious about what they post and how it can be interpreted, especially in a political point of view. 
+Social dictatorship in the Philippines is something that has been going on for a long time. It's upsetting to see citizens being influenced by news filtered by thier own government. People themselves have to be cautious about what they post and how it can be interpreted, especially in a political point of view. 
